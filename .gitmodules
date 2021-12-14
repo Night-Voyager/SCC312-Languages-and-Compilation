@@ -1,0 +1,12 @@
+[submodule "Lab1/a-lexical-analyser-c"]
+	path = Lab1/a-lexical-analyser-c
+	url = git@github.com:Night-Voyager/a-lexical-analyser-c.git
+[submodule "Lab1/a-lexical-analyser-java"]
+	path = Lab1/a-lexical-analyser-java
+	url = git@github.com:Night-Voyager/a-lexical-analyser-java.git
+[submodule "Lab1/a-lexical-analyser-lex"]
+	path = Lab1/a-lexical-analyser-lex
+	url = git@github.com:Night-Voyager/a-lexical-analyser-lex.git
+[submodule "Lab1/a-lexical-analyser-llvm"]
+	path = Lab1/a-lexical-analyser-llvm
+	url = git@github.com:Night-Voyager/a-lexical-analyser-llvm.git
